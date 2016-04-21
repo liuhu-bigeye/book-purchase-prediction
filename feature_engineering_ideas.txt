@@ -1,0 +1,11 @@
+##features
+
+####statistics
+1. purchase units of books
+2. purchase value
+3. purchase mean value
+
+####squential statistics(of each month, quater)
+1. purchase units of books
+2. purchase value
+3. purchase mean value
